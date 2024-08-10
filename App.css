@@ -1,0 +1,54 @@
+.cellInput {
+  height: 50px;
+  font-size: 20px;
+  text-align: center;
+  padding: 0px;
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  border: 3px solid bisque;
+  background-color: bisque;
+}
+
+td {
+  padding: 0;
+}
+
+.buttonContainer {
+  margin-top: 20px;
+}
+
+.checkButton {
+  background-color: yellow;
+  font-weight: bold;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.solveButton {
+  background-color: orange;
+  font-weight: bold;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  margin: 0px 20px;
+}
+
+.resetButton {
+  background-color: blue;
+  color: white;  /* Added this to ensure the text is visible on the blue background */
+  font-weight: bold;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.bBorder {
+  border-bottom: 2px solid black;
+}
